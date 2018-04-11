@@ -1,0 +1,7 @@
+#Sat Nov 26 11:54:16 IST 2016
+base.0=D\:\\workspace\\workbook3\\CalculateStorage1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_03c9cccdc39f975f99f563879056b87d140aa3c4
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\workspace\\workbook3\\CalculateStorage1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_e407f40113f92f8d3052147e676dafcf570e18ac\\classes.dex
+base.1=D\:\\workspace\\workbook3\\CalculateStorage1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_e407f40113f92f8d3052147e676dafcf570e18ac
+file.0=D\:\\workspace\\workbook3\\CalculateStorage1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_03c9cccdc39f975f99f563879056b87d140aa3c4\\classes.dex

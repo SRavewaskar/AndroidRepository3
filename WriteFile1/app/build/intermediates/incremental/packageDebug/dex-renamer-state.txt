@@ -1,0 +1,7 @@
+#Tue Nov 22 14:19:27 IST 2016
+base.0=D\:\\workspace\\workbook3\\WriteFile1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ec8ae261a3fecfefc3288ad518787b75804ee604
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\workspace\\workbook3\\WriteFile1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_29d2bd9608113667052b8fa1f25f18bca6d6cad5\\classes.dex
+base.1=D\:\\workspace\\workbook3\\WriteFile1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_29d2bd9608113667052b8fa1f25f18bca6d6cad5
+file.0=D\:\\workspace\\workbook3\\WriteFile1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ec8ae261a3fecfefc3288ad518787b75804ee604\\classes.dex

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\workspace\\workbook3\\ContextualDemo1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\workspace\\workbook3\\ContextualDemo1\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\workspace\\workbook3\\ContextualDemo1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\contextual_menu.xml",
+        "source": "D:\\workspace\\workbook3\\ContextualDemo1\\app\\src\\main\\res\\menu\\contextual_menu.xml"
+    }
+]

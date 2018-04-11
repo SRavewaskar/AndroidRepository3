@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\workspace\workbook3\save2SDcard1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="73e8873147bf23e454d7859f8212d9a1f3a1fbbe">
+        <dex dex="D:\workspace\workbook3\save2SDcard1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_51f1a86666ecc75707bfa7c51549001986a89bcb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\workbook3\save2SDcard1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fea47427a6f638ae0b6850b318d3d7bfe4df3bc6">
+        <dex dex="D:\workspace\workbook3\save2SDcard1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4f41d3360c63de499e707e74f7b948fa239dee35\classes.dex" />
+    </item>
+
+</items>

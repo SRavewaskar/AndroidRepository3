@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\workspace\workbook3\CheckExternalStorage1\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_52ef4bcdb176e7a351a98305c22619cfbb9c8fd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspace\workbook3\CheckExternalStorage1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="422cb88b6bde22d6f719f2a8692db15dadd5573c">
+        <dex dex="D:\workspace\workbook3\CheckExternalStorage1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_fef1fab8adc79b064f0fa9148ae95cd01f4ea60e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspace\workbook3\CheckExternalStorage1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a327d6ccc12ab5f94dcc94147f487546750820d5">
+        <dex dex="D:\workspace\workbook3\CheckExternalStorage1\app\build\intermediates\pre-dexed\debug\instant-run_f6ddb570620850acbf19d7b2c72491c57d6708c0.jar" />
+    </item>
+
+</items>

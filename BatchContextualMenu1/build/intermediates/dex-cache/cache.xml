@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\admin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\workspace\workbook3\BatchContextualMenu1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_52ef4bcdb176e7a351a98305c22619cfbb9c8fd8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\workbook3\BatchContextualMenu1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="48fe72942fef2f61d11958a58c116efba8bcb2d4">
+        <dex dex="D:\workspace\workbook3\BatchContextualMenu1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3e34122f49785864006e9b107b99a1b0fe810d63\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\workbook3\BatchContextualMenu1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6786bc800f6873e03ef23eae1ffda3d5859e277c">
+        <dex dex="D:\workspace\workbook3\BatchContextualMenu1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_31492f832577e5501e34bb3de51212d2e5351f73\classes.dex" />
+    </item>
+
+</items>

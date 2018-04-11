@@ -1,0 +1,7 @@
+#Fri Nov 25 14:02:48 IST 2016
+base.0=D\:\\workspace\\workbook3\\ActionBarDemo1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_d16ea5fe019ad66f6934cab5c4afa63fc474d3bf
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\workspace\\workbook3\\ActionBarDemo1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_236a1d4391654c71e6ccf6b775b9d3a6d6162281\\classes.dex
+base.1=D\:\\workspace\\workbook3\\ActionBarDemo1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_236a1d4391654c71e6ccf6b775b9d3a6d6162281
+file.0=D\:\\workspace\\workbook3\\ActionBarDemo1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_d16ea5fe019ad66f6934cab5c4afa63fc474d3bf\\classes.dex

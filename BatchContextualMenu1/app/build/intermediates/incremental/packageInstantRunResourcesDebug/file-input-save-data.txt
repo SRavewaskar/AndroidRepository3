@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Fri Nov 25 14:13:12 IST 2016
+2.base=D\:\\workspace\\workbook3\\BatchContextualMenu1\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=D\:\\workspace\\workbook3\\BatchContextualMenu1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\context_menu.xml
+5.set=ANDROID_RESOURCE
+3.base=D\:\\workspace\\workbook3\\BatchContextualMenu1\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.set=ANDROID_RESOURCE
+4.base=D\:\\workspace\\workbook3\\BatchContextualMenu1\\app\\build\\intermediates\\res\\resources-debug.ap_
+count=6
+0.file=D\:\\workspace\\workbook3\\BatchContextualMenu1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+5.base=D\:\\workspace\\workbook3\\BatchContextualMenu1\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+1.file=D\:\\workspace\\workbook3\\BatchContextualMenu1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+1.set=ANDROID_RESOURCE
+2.file=D\:\\workspace\\workbook3\\BatchContextualMenu1\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+0.base=D\:\\workspace\\workbook3\\BatchContextualMenu1\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\workspace\\workbook3\\BatchContextualMenu1\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+3.set=ANDROID_RESOURCE
+1.base=D\:\\workspace\\workbook3\\BatchContextualMenu1\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=D\:\\workspace\\workbook3\\BatchContextualMenu1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+0.set=ANDROID_RESOURCE

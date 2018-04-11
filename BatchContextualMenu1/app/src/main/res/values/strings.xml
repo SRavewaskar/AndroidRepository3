@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BatchContextualMenu</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string-array name="listitems">
+        <item>Earth</item>
+        <item>Venus</item>
+        <item>Jupiter</item>
+        <item>Mars</item>
+        <item>Pluto</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+        <item>Saturn</item>
+    </string-array>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/MyContactImage"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/ic_action_name2"
+        />
+
+    <TextView
+        android:id="@+id/myImageViewText"
+        android:layout_width="275px"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@id/MyContactImage"
+        android:layout_alignTop="@id/MyContactImage"
+        android:layout_alignRight="@id/MyContactImage"
+        android:layout_alignBottom="@id/MyContactImage"
+        android:layout_margin="1dp"
+        android:gravity="center"
+        android:text="Please feel free to contact me..."
+        android:background="#07000000"
+        android:textColor="#000000" />
+</LinearLayout>

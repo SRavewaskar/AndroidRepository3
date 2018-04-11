@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Sat Nov 26 11:21:02 IST 2016
+1.base=D\:\\workspace\\workbook3\\save2file1\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=D\:\\workspace\\workbook3\\save2file1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\icon.png
+2.base=D\:\\workspace\\workbook3\\save2file1\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=D\:\\workspace\\workbook3\\save2file1\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+count=4
+1.set=ANDROID_RESOURCE
+3.base=D\:\\workspace\\workbook3\\save2file1\\app\\build\\intermediates\\res\\resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=D\:\\workspace\\workbook3\\save2file1\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\workspace\\workbook3\\save2file1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+0.file=D\:\\workspace\\workbook3\\save2file1\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
